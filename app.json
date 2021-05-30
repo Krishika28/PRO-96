@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "pro-96",
+    "slug": "snack-257bee60-bc5c-45be-bb50-e6f5e7fbb77a",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "android": {
+      "package": "com.krishika.snack257bee60bc5c45bebb50e6f5e7fbb77a"
+    }
+  }
+}
